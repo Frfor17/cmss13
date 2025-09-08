@@ -381,6 +381,12 @@
 	},
 /turf/open/floor/plating/kutjevo,
 /area/space)
+"wQ" = (
+/obj/structure/machinery/door/airlock/hybrisa/generic/autoname{
+	dir = 1
+	},
+/turf/open/floor/hybrisa/carpet/carpetblackdeco,
+/area/space)
 "wX" = (
 /obj/structure/platform/metal/almayer,
 /turf/open/gm/river/ocean/deep_ocean,
@@ -26432,7 +26438,7 @@ ba
 ba
 ba
 ba
-ba
+wQ
 eL
 eL
 eL
