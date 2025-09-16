@@ -331,6 +331,11 @@
 	},
 /turf/open/floor/almayer/plating/northeast,
 /area/space)
+"mz" = (
+/obj/structure/fence/dark/warning,
+/obj/structure/fence/dark/warning,
+/turf/open/auto_turf/hybrisa_auto_turf/layer2,
+/area/space)
 "nz" = (
 /obj/item/stack/sheet/wood{
 	layer = 2.7;
@@ -32957,8 +32962,8 @@ eL
 eL
 eL
 eL
-eL
-eL
+nK
+nK
 eL
 eL
 eL
@@ -33210,7 +33215,7 @@ gj
 eL
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -34866,11 +34871,11 @@ eL
 eL
 eL
 eL
-eL
-eL
-eL
-eL
-eL
+nK
+nK
+nK
+nK
+nK
 eL
 eL
 lh
@@ -34880,10 +34885,10 @@ lh
 lh
 eL
 eL
-eL
-eL
-eL
-eL
+nK
+nK
+nK
+nK
 eL
 eL
 eL
@@ -35644,7 +35649,7 @@ eL
 eL
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -35869,7 +35874,7 @@ lh
 lh
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -35896,7 +35901,7 @@ eL
 eL
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -36121,7 +36126,7 @@ lh
 lh
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -36148,7 +36153,7 @@ eL
 eL
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -36373,6 +36378,7 @@ lh
 lh
 eL
 eL
+nK
 eL
 eL
 eL
@@ -36399,8 +36405,7 @@ eL
 eL
 eL
 eL
-eL
-eL
+mz
 eL
 eL
 eL
@@ -36625,6 +36630,7 @@ lh
 lh
 eL
 eL
+nK
 eL
 eL
 eL
@@ -36651,8 +36657,7 @@ eL
 eL
 eL
 eL
-eL
-eL
+nK
 eL
 eL
 eL
@@ -36877,6 +36882,7 @@ lh
 lh
 eL
 eL
+nK
 eL
 eL
 eL
@@ -36903,8 +36909,7 @@ eL
 eL
 eL
 eL
-eL
-eL
+nK
 eL
 eL
 eL
@@ -37129,6 +37134,7 @@ eL
 eL
 eL
 eL
+nK
 eL
 eL
 eL
@@ -37155,8 +37161,7 @@ eL
 eL
 eL
 eL
-eL
-eL
+nK
 eL
 eL
 eL
@@ -37381,6 +37386,7 @@ eL
 eL
 eL
 eL
+nK
 eL
 eL
 eL
@@ -37407,8 +37413,7 @@ eL
 eL
 eL
 eL
-eL
-eL
+nK
 eL
 eL
 eL
@@ -37660,7 +37665,7 @@ eL
 eL
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -37912,7 +37917,7 @@ eL
 eL
 eL
 eL
-eL
+nK
 eL
 eL
 eL
@@ -38164,7 +38169,7 @@ eL
 eL
 eL
 eL
-eL
+nK
 eL
 ER
 ER
